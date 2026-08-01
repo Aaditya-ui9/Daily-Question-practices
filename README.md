@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
