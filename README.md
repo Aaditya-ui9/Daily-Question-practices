@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0319-bulb-switcher) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
