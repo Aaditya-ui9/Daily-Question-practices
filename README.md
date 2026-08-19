@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0148-sort-list) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Math
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
