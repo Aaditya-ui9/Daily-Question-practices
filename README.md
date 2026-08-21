@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0577-employee-bonus) |
+| [0619-biggest-single-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0619-biggest-single-number) |
 ## Bit Manipulation
 |  |
 | ------- |
