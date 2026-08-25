@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0577-employee-bonus) |
 | [0619-biggest-single-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0619-biggest-single-number) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Bit Manipulation
 |  |
 | ------- |
