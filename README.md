@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0217-contains-duplicate) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0217-contains-duplicate) |
 ## Merge Sort
 |  |
 | ------- |
