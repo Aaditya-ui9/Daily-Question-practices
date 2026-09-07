@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0319-bulb-switcher) |
+| [0509-fibonacci-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -149,4 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
