@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0231-power-of-two) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Matrix
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
