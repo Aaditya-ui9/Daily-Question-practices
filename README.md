@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0319-bulb-switcher) |
+| [0367-valid-perfect-square](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0367-valid-perfect-square) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Enumeration
 |  |
