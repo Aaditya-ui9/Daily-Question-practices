@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0217-contains-duplicate) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3842-toggle-light-bulbs](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0242-valid-anagram) |
+| [3842-toggle-light-bulbs](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0054-spiral-matrix) |
+| [3842-toggle-light-bulbs](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3842-toggle-light-bulbs) |
 ## Linked List
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0242-valid-anagram) |
+| [3842-toggle-light-bulbs](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3842-toggle-light-bulbs) |
 ## Merge Sort
 |  |
 | ------- |
