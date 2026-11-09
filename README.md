@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0485-max-consecutive-ones) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3842-toggle-light-bulbs](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3842-toggle-light-bulbs) |
