@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0485-max-consecutive-ones) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0189-rotate-array) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Math
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0319-bulb-switcher) |
