@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3842-toggle-light-bulbs](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3842-toggle-light-bulbs) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0704-binary-search) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Enumeration
 |  |
