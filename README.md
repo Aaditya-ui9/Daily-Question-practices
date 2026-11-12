@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3842-toggle-light-bulbs](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3842-toggle-light-bulbs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Enumeration
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0242-valid-anagram) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3842-toggle-light-bulbs](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3842-toggle-light-bulbs) |
 ## Merge Sort
 |  |
@@ -194,4 +197,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
