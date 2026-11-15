@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3842-toggle-light-bulbs](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Math
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0054-spiral-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3842-toggle-light-bulbs](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/3842-toggle-light-bulbs) |
 ## Linked List
 |  |
