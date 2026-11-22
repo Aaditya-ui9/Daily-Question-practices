@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0189-rotate-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Aaditya-ui9/Daily-Question-practices/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
